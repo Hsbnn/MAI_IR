@@ -1,0 +1,498 @@
+red bull
+podium
+car
+silverstone
+monaco
+williams
+racing
+race
+mercedes
+silverstone
+circuit
+williams
+silverstone
+fastest
+driver
+championship
+car
+championship
+championship
+red bull
+monaco
+formula one
+williams
+team
+ferrari
+red bull
+fastest
+mercedes
+car
+williams
+mclaren
+team
+circuit
+engine
+championship
+engine
+ferrari
+silverstone
+silverstone
+race
+championship
+fastest
+monaco
+championship
+formula one
+red bull
+racing
+circuit
+ferrari
+mclaren
+engine
+winner
+grand prix
+williams
+red bull
+championship
+monaco
+mercedes
+ferrari
+mercedes
+podium
+racing
+winner
+winner
+fastest
+winner
+team
+fastest
+championship
+winner
+mercedes
+ferrari
+fastest
+winner
+mercedes
+championship
+podium
+red bull
+driver
+podium
+winner
+car
+podium
+winner
+williams
+racing
+fastest
+williams
+grand prix
+circuit
+ferrari
+grand prix
+red bull
+ferrari
+mercedes
+formula one
+winner
+fastest
+mclaren
+fastest
+fastest && circuit
+winner && ferrari
+engine && championship
+team && engine
+williams && fastest
+monaco && red bull
+race && mclaren
+mercedes && monaco
+race && silverstone
+winner && team
+silverstone && car
+silverstone && race
+podium && car
+driver && red bull
+car && mclaren
+silverstone && circuit
+championship && winner
+williams && championship
+ferrari && driver
+williams && formula one
+ferrari && winner
+formula one && driver
+engine && ferrari
+fastest && podium
+ferrari && podium
+williams && red bull
+grand prix && williams
+formula one && race
+fastest && circuit
+formula one && team
+silverstone && engine
+grand prix && car
+ferrari && fastest
+winner && racing
+team && fastest
+podium && red bull
+engine && mercedes
+red bull && fastest
+formula one && podium
+circuit && race
+ferrari && team
+monaco && red bull
+formula one && circuit
+silverstone && circuit
+team && mercedes
+race && engine
+circuit && grand prix
+team && fastest
+williams && winner
+racing && winner
+fastest && williams
+championship && mercedes
+red bull && winner
+ferrari && car
+car && ferrari
+winner && team
+racing && monaco
+circuit && team
+ferrari && driver
+team && williams
+monaco && fastest
+red bull && car
+team && formula one
+monaco && fastest
+driver && engine
+grand prix && williams
+grand prix && silverstone
+ferrari && formula one
+circuit && championship
+mclaren && mercedes
+car && race
+racing && engine
+car && mclaren
+ferrari && williams
+racing && mclaren
+ferrari && podium
+car && williams
+racing && mercedes
+race && racing
+red bull && team
+fastest && engine
+podium && championship
+circuit && mercedes
+mclaren && team
+red bull && mercedes
+formula one && engine
+grand prix && mclaren
+racing && team
+formula one && williams
+fastest && team
+car && monaco
+grand prix && monaco
+grand prix && race
+podium && mclaren
+formula one && winner
+monaco && ferrari
+williams && team
+silverstone && racing
+monaco || grand prix
+silverstone || engine
+car || monaco
+car || engine
+monaco || formula one
+mclaren || race
+driver || engine
+race || team
+podium || formula one
+team || mercedes
+team || podium
+engine || mclaren
+car || fastest
+williams || winner
+formula one || red bull
+winner || silverstone
+race || championship
+monaco || race
+driver || mclaren
+engine || race
+circuit || engine
+red bull || formula one
+formula one || silverstone
+driver || winner
+silverstone || circuit
+mclaren || engine
+formula one || winner
+winner || red bull
+team || monaco
+monaco || winner
+circuit || championship
+monaco || red bull
+ferrari || racing
+car || driver
+team || racing
+driver || championship
+monaco || red bull
+racing || formula one
+championship || winner
+mercedes || williams
+driver || formula one
+racing || circuit
+car || podium
+monaco || engine
+williams || driver
+circuit || mercedes
+championship || williams
+championship || red bull
+racing || circuit
+ferrari || race
+formula one || winner
+car || driver
+williams || podium
+red bull || williams
+williams || williams
+formula one || engine
+silverstone || driver
+team || racing
+grand prix || championship
+car || driver
+championship || racing
+engine || car
+red bull || grand prix
+williams || mclaren
+ferrari || circuit
+car || circuit
+podium || grand prix
+racing || team
+mercedes || engine
+mclaren || silverstone
+williams || mercedes
+monaco || mercedes
+championship || championship
+ferrari || racing
+engine || race
+grand prix || silverstone
+silverstone || mercedes
+winner || fastest
+team || team
+driver || race
+winner || winner
+silverstone || engine
+formula one || silverstone
+winner || driver
+fastest || fastest
+racing || formula one
+team || racing
+silverstone || engine
+team || driver
+red bull || driver
+ferrari || driver
+formula one || mercedes
+williams || car
+grand prix || monaco
+williams || monaco
+fastest || team
+race || formula one
+winner || williams
+engine || grand prix
+car || car
+(red bull || grand prix) && red bull
+winner && engine && !circuit
+williams && podium && !circuit
+winner && grand prix && !car
+(racing || grand prix) && formula one
+(driver || williams) && !championship
+formula one && (championship || circuit)
+(race || engine) && !ferrari
+(racing || williams) && !williams
+(red bull || winner) && !circuit
+(team || red bull) && driver
+fastest && (fastest || formula one)
+race && racing && !winner
+formula one && williams && !team
+mercedes && (racing || red bull)
+ferrari && ferrari && !racing
+(circuit || race) && racing
+winner && silverstone && !car
+(monaco || ferrari) && !podium
+silverstone && grand prix && !mclaren
+williams && (mercedes || car)
+(race || championship) && race
+mclaren && podium && !williams
+monaco && fastest && !car
+(car || championship) && !circuit
+(grand prix || driver) && mclaren
+racing && fastest && !podium
+championship && (fastest || podium)
+driver && winner && !williams
+red bull && silverstone && !winner
+winner && (championship || racing)
+red bull && (mercedes || circuit)
+grand prix && race && !ferrari
+circuit && (mclaren || silverstone)
+(racing || formula one) && mercedes
+ferrari && championship && !car
+car && (driver || ferrari)
+(podium || mercedes) && !mclaren
+(formula one || engine) && !mercedes
+(engine || grand prix) && championship
+(formula one || mclaren) && !red bull
+championship && formula one && !car
+championship && (championship || mercedes)
+fastest && ferrari && !ferrari
+red bull && team && !championship
+(mercedes || team) && grand prix
+team && (driver || championship)
+(racing || circuit) && !monaco
+car && driver && !racing
+(williams || championship) && podium
+driver && circuit && !winner
+(red bull || fastest) && engine
+(grand prix || williams) && winner
+driver && (williams || formula one)
+grand prix && (driver || championship)
+(winner || racing) && mercedes
+(podium || winner) && silverstone
+driver && championship && !racing
+(race || team) && silverstone
+(winner || monaco) && !podium
+(grand prix || podium) && engine
+(silverstone || mclaren) && racing
+(team || grand prix) && !ferrari
+(racing || ferrari) && williams
+(race || grand prix) && !winner
+(team || monaco) && !car
+(podium || williams) && championship
+winner && (ferrari || car)
+fastest && podium && !team
+(williams || formula one) && !circuit
+(driver || ferrari) && !race
+monaco && engine && !formula one
+(williams || circuit) && !championship
+formula one && (racing || monaco)
+(mclaren || ferrari) && !winner
+(winner || car) && racing
+(ferrari || driver) && !silverstone
+(formula one || engine) && !team
+(silverstone || engine) && !engine
+racing && engine && !mclaren
+mercedes && engine && !car
+fastest && (williams || red bull)
+(championship || grand prix) && !race
+(championship || mercedes) && !racing
+podium && driver && !engine
+fastest && mclaren && !mclaren
+(race || monaco) && winner
+williams && (fastest || engine)
+(williams || williams) && mclaren
+(fastest || fastest) && !formula one
+williams && (driver || red bull)
+monaco && (driver || winner)
+team && (winner || formula one)
+(ferrari || race) && podium
+monaco && (race || podium)
+engine && (formula one || team)
+winner && podium && !red bull
+(grand prix || silverstone) && monaco
+team && team && !winner
+monaco && (ferrari || team)
+"world championship"
+"red bull racing"
+"grand prix" / 5
+"grand prix"
+"grand prix" / 5
+"formula one"
+"formula one"
+"grand prix"
+"grand prix"
+"grand prix" / 5
+"grand prix" / 5
+"red bull racing"
+"world championship"
+"formula one"
+"grand prix"
+"formula one" / 3
+"grand prix" / 5
+"formula one"
+"formula one" / 3
+"grand prix" / 5
+"formula one"
+"formula one" / 3
+"grand prix" / 5
+"world championship"
+"world championship"
+"world championship"
+"grand prix" / 5
+"formula one" / 3
+"grand prix"
+"world championship"
+"red bull racing"
+"red bull racing"
+"formula one" / 3
+"grand prix"
+"formula one" / 3
+"grand prix"
+"red bull racing"
+"formula one"
+"world championship"
+"grand prix" / 5
+"red bull racing"
+"formula one" / 3
+"grand prix" / 5
+"world championship"
+"formula one"
+"grand prix" / 5
+"world championship"
+"red bull racing"
+"grand prix" / 5
+"formula one"
+"grand prix"
+"grand prix" / 5
+"red bull racing"
+"grand prix"
+"formula one"
+"red bull racing"
+"grand prix"
+"grand prix"
+"formula one"
+"formula one"
+"red bull racing"
+"formula one"
+"formula one"
+"grand prix"
+"red bull racing"
+"grand prix" / 5
+"grand prix"
+"formula one"
+"formula one" / 3
+"formula one" / 3
+"formula one" / 3
+"grand prix"
+"formula one" / 3
+"red bull racing"
+"world championship"
+"grand prix" / 5
+"grand prix" / 5
+"world championship"
+"world championship"
+"grand prix"
+"world championship"
+"grand prix" / 5
+"grand prix" / 5
+"grand prix"
+"world championship"
+"grand prix" / 5
+"grand prix" / 5
+"formula one"
+"formula one"
+"red bull racing"
+"formula one" / 3
+"grand prix" / 5
+"grand prix" / 5
+"formula one"
+"grand prix"
+"formula one"
+"red bull racing"
+"formula one" / 3
+"red bull racing"
+"world championship"

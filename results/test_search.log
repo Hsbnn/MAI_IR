@@ -1,0 +1,45 @@
+
+========================================
+  ТЕСТИРОВАНИЕ ПОИСКА
+========================================
+
+TEST: Simple search
+Поиск выполнен за 0.000000 сек, найдено 2 документов
+  Query: ferrari
+  Results: 2 documents
+  ✓ PASSED
+
+TEST: AND search
+Поиск выполнен за 0.000002 сек, найдено 1 документов
+  Query: ferrari && monaco
+  Results: 1 documents
+  ✓ PASSED
+
+TEST: OR search
+Поиск выполнен за 0.000001 сек, найдено 3 документов
+  Query: ferrari || mercedes
+  Results: 3 documents
+  ✓ PASSED
+
+TEST: NOT search
+Поиск выполнен за 0.000001 сек, найдено 1 документов
+  Query: !ferrari
+  Results: 1 documents
+  ✓ PASSED
+
+TEST: Phrase search
+Поиск выполнен за 0.000001 сек, найдено 1 документов
+  Query: "grand prix"
+  Results: 1 documents
+  ✓ PASSED
+
+TEST: Complex query
+Поиск выполнен за 0.000002 сек, найдено 2 документов
+  Query: (ferrari || mercedes) && !monaco
+  Results: 2 documents
+  ✓ PASSED
+
+========================================
+  ВСЕ ТЕСТЫ ПРОЙДЕНЫ!
+========================================
+
