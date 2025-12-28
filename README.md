@@ -1,6 +1,7 @@
 # MAI_IR
 
  ![IMAGE 2025-12-28 17:30:36](https://github.com/user-attachments/assets/6694fe41-a9ca-481c-b358-42549a8325bd)
+ 
  f1 and cars search
  
 ## Инструкция по запуску
